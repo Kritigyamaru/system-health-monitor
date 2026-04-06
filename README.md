@@ -1,4 +1,4 @@
-# System Health Monitor
+## System Health Monitor
 A lightweight Bash script to monitor system performance by tracking CPU, memory, and disk usage. The script logs system metrics and generates warnings when usage exceeds defined thresholds.
 ---
 ## Table of Contents
@@ -19,6 +19,7 @@ This script helps monitor system health by collecting:
 * CPU usage
 * Memory usage
 * Disk usage
+
 All data is logged with timestamps, making it useful for tracking system performance over time.
 ---
 ## Features
