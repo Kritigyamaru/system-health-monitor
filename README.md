@@ -1,5 +1,5 @@
 # System Health Monitor
----
+
 ## Table of Contents
 * [Overview](#overview)
 * [Features](#features)
