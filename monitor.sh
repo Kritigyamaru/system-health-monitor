@@ -1,5 +1,5 @@
 #!/bin/bash
-LOGFILE="/home/kriti/system-health-monitor/system.log"
+LOGFILE="/home/system-health-monitor/system.log"
 DATE=$(date "+%Y-%m-%d %H:%M:%S")
 cpu_usage() {
 	top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}'
